@@ -34,11 +34,10 @@
 
 ## 🎯 Featured Projects
 
-### 📱 [Cross-Platform Mobile App - EazyPizy](#)
+### 📱 [Cross-Platform Mobile App - Habit Forge](#)
 *Flutter • Firebase • REST APIs*
 - Led complete development lifecycle from concept to market release
 - Implemented MVC architecture with clean, maintainable codebase
-- Collaborated directly with founder to align features with business vision
 - **[View Repository](#)** | **[Live Demo](#)**
 
 ### 🌐 [Personal Portfolio Website](#)
